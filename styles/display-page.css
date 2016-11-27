@@ -1,0 +1,47 @@
+body {
+    font-size: 0;
+    margin: 5%;
+}
+
+.inner {
+    display: inline-block;
+    font-size: 0;
+    /*width: 25%;*/
+    border: black solid 1px;
+}
+
+.boxes {
+    margin: auto;
+    width: 800px;
+}
+
+.top {
+    height: 200px;
+    width: 50%;
+}
+
+.bottom {
+    height: 300px;
+    width: 33.333333%;
+}
+
+.green {
+    background-color: darkgreen;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.black {
+    background-color: black;
+}
+
+.gray {
+    background-color: dimgray;
+}
+
+.blue {
+    background-color: dodgerblue;
+}
+
